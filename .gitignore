@@ -10,6 +10,9 @@ composer.lock
 phpcs.xml
 .phpcs-cache
 /.rnd
+.slnx
+.vsidx
+/.vs
 test/PHPMailerTest.php*nonexistent_file.txt
 test/*/PHPMailerTest.php*nonexistent_file.txt
 phpunit.xml
